@@ -12,6 +12,15 @@ Na niebie szukaj siedem gwiazd tworzących klepsydrę, przez której środek prz
 
 <img src="images/gwaizdozbior.png" alt="Gwiazdozbiór Oriona. Stellarium/R. Strzondała" />
 
+Gwiazdy pasu:
+
+| Gwiazda | Odległość (lś) | Wiek gwiazdy (w latach) |
+|------------|------------|------------|
+| Alnitak  | 1262  | 9 000 000   |
+| Alnilam  | 1340  | 4 000 000  |
+| Mintaka  | 1200  | 10 000 000  |
+
+
 <p>Gwiazdozbiór Oriona. Stellarium/R. Strzondała</p>
 
 ## **Gdzie i kiedy Go znaleźć**

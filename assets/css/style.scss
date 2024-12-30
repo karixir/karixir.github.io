@@ -5,9 +5,6 @@
 body {
   background-color: #1e294a;
 }
-p {
-    margin-bottom: 20px;
-}
 h1 {
   color: #808080;
 }
@@ -32,6 +29,9 @@ table {
     margin-left: 70%;
     margin-right: 70%;
     border-collapse: collapse;
+}
+p {
+    margin: 40px 0;  /* 20px na górze i na dole paragrafu */
 }
 
 

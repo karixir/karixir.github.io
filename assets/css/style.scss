@@ -25,7 +25,13 @@ a {
 a:hover {
   color: #d10fbe;
 }
-.sticky-header {
-    transition: none;
+h1, h2, h3, h4, h5, h6 {
+    font-size: 1.5rem;
+    background-color: transparent;
 }
+.sticky-header, .scrolled {
+    font-size: 1.5rem;
+    background-color: transparent;
+}
+
 

@@ -12,6 +12,8 @@ Na niebie szukaj siedem gwiazd tworzących klepsydrę, przez której środek prz
 
 <img src="images/gwaizdozbior.png" alt="Gwiazdozbiór Oriona. Stellarium/R. Strzondała" />
 
+<p>Gwiazdozbiór Oriona. Stellarium/R. Strzondała</p>
+
 Gwiazdy pasu:
 
 | Gwiazda | Odległość (lś) | Wiek gwiazdy (w latach) |
@@ -19,9 +21,6 @@ Gwiazdy pasu:
 | Alnitak  | 1262  | 9 000 000   |
 | Alnilam  | 1340  | 4 000 000  |
 | Mintaka  | 1200  | 10 000 000  |
-
-
-<p>Gwiazdozbiór Oriona. Stellarium/R. Strzondała</p>
 
 ## **Gdzie i kiedy Go znaleźć**
 W Polsce Orion jest najlepiej widoczny od października (po pólnocy po wschodniej stronie nieba) do końca lutego ( do pólnocy po zachodniej stronie nieba)

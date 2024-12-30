@@ -5,8 +5,10 @@
 <p>Orion - a raczej jego pas to był pierwszy układ gwiazd który wzbudził we mnie chęć poszukiwania innych konstelacji na niebie.</p>
 
 
+
 ## **Mityczne pochodzenie Oriona**
 Gwazdozbiór Oriona jest bardzo charakterystyczną grupą gwiazd, która wzbudzała fascynację na przestrzeni wieków. Na ziemiach Mezopotami Oriona uważano za boga-pasterza *Tammuza*, dla Syryjczyków był on olbrzymem *Al Jabbar*. Egipcjanie widzieli w nim *Sahu* czyli duszę Ozyrysa a w mitologii greckiej był myśliwym.
+
 
 
 ## **Charakterystyka**
@@ -25,12 +27,21 @@ Gwiazdy pasu:
 | Mintaka  | 1200  | 10 000 000  |
 
 
+
 ## **Gdzie i kiedy Go znaleźć**
 W Polsce Orion jest najlepiej widoczny od października (po pólnocy po wschodniej stronie nieba) do końca lutego ( do pólnocy po zachodniej stronie nieba)
 
 
+
 ## **Obserwacje**
-Szukając konstelacji, gwiazd, planet czy mgławic nieocenioną pomoc niesie aplikacja Sterllarium która pokazuje widok nieba w czasie rzeczywistym. Link do strony znajduje się [tutaj](https://stellarium.org/). Aplikacja jest również do pobrania na Sklep Play lub App Store.
+Szukając konstelacji, gwiazd, planet czy mgławic nieocenioną pomoc niesie aplikacja Sterllarium która pokazuje widok nieba w czasie rzeczywistym. Link do strony znajduje się [tutaj](https://stellarium-web.org/). Aplikacja jest również do pobrania na Sklep Play lub App Store. Polecam Stellarium równiez dlatego, że:
+- posiada różne metody projekcji obrazu
+- możliwość ustalenia miejsca obserwacji
+- opcja wyświetlania artystycznych interpretacji gwiazdozbiorów
+- baza danych zawierająca 600 000 gwiazd (mozliwość pobrania bazy danych z ponad 210 mln gwiazd)
+- baza gwaizdozbiorów kultur: zachodniej, egipskiej, chińskiej, koreańskiej i innych
+
+Warto śledzić blogi dotyczące astronomii lub sprawdzać wydarzenia dotyczące nocnych zjawisk. Bo naprawdę dużo się dzieje. A dzięki prostym narządziom takim jak choćby lornetka można dostrzec powierzchnię księżyca.  
 
 
 

@@ -7,7 +7,7 @@
 
 
 ## **Mityczne pochodzenie Oriona**
-Gwazdozbiór Oriona jest bardzo charakterystyczną grupą gwiazd, która wzbudzała fascynację na przestrzeni wieków. Na ziemiach Mezopotami Oriona uważano za boga-pasterza *Tammuza*, dla Syryjczyków był on olbrzymem *Al Jabbar*. Egipcjanie widzieli w nim *Sahu* czyli duszę Ozyrysa a w mitologii greckiej był myśliwym.
+Gwazdozbiór Oriona jest bardzo charakterystyczną grupą gwiazd, która wzbudzała fascynację na przestrzeni wieków. Na ziemiach Mezopotami Oriona uważano za boga-pasterza *Tammuza*, dla Syryjczyków był on olbrzymem *Al Jabbar*. Egipcjanie widzieli w nim *Sahu* czyli duszę Ozyrysa a w mitologii greckiej był myśliwym. <br>
 
 
 
@@ -24,12 +24,12 @@ Gwiazdy pasu:
 |------------|------------|------------|
 | Alnitak  | 1262  | 9 000 000   |
 | Alnilam  | 1340  | 4 000 000  |
-| Mintaka  | 1200  | 10 000 000  |
+| Mintaka  | 1200  | 10 000 000  | <br>
 
 
 
 ## **Gdzie i kiedy Go znaleźć**
-W Polsce Orion jest najlepiej widoczny od października (po pólnocy po wschodniej stronie nieba) do końca lutego ( do pólnocy po zachodniej stronie nieba)
+Gwiazdozbiór Oriona leży w obszarze równika niebieskiego. Jako że równik dzieli sferę niebieską na część północną i południową, gwiazdy tej konstelacji położone są na obu. W Polsce Orion jest najlepiej widoczny od października (po pólnocy po wschodniej stronie nieba) do końca lutego (do pólnocy po zachodniej stronie nieba) Następnie konstelacja niknie na zachodzie.<br>
 
 
 
@@ -41,7 +41,7 @@ Szukając konstelacji, gwiazd, planet czy mgławic nieocenioną pomoc niesie apl
 - baza danych zawierająca 600 000 gwiazd (mozliwość pobrania bazy danych z ponad 210 mln gwiazd)
 - baza gwaizdozbiorów kultur: zachodniej, egipskiej, chińskiej, koreańskiej i innych
 
-Warto śledzić blogi dotyczące astronomii lub sprawdzać wydarzenia dotyczące nocnych zjawisk. Bo naprawdę dużo się dzieje. A dzięki prostym narządziom takim jak choćby lornetka można dostrzec powierzchnię księżyca.  
+Warto śledzić blogi dotyczące astronomii lub sprawdzać wydarzenia dotyczące nocnych zjawisk. Bo naprawdę dużo się dzieje. A dzięki prostym narządziom takim jak choćby lornetka można dostrzec powierzchnię księżyca.<br>
 
 
 

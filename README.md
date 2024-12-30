@@ -2,7 +2,7 @@
 
 <img src="images/orion.jpg" alt="Orion - a raczej jego pas to był pierwszy układ gwiazd który wzbudził we mnie chęć poszukiwania innych konstelacji na niebie." />
 
-<p>Orion - a raczej jego pas to był pierwszy układ gwiazd który wzbudził we mnie chęć poszukiwania innych konstelacji na niebie.</p>
+*Orion - a raczej jego pas to był pierwszy układ gwiazd który wzbudził we mnie chęć poszukiwania innych konstelacji na niebie.*
 
 
 
